@@ -2,6 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.io/" rel="alternate"></link><link href="http://devcd.io/feeds/report.atom.xml" rel="self"></link><id>http://devcd.io/</id><updated>2016-01-14T11:18:00+08:00</updated><entry><title>12月20日结对编程聚会报告（简单版）</title><link href="http://devcd.io/report20151220.html" rel="alternate"></link><updated>2016-01-14T11:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-01-14:report20151220.html</id><summary type="html">&lt;p&gt;记得那天很冷，所以特别表扬当天前来参与活动的小伙伴，一起渡过了码得热火朝天的下午。而且大家都对活动很重视，比如有位小伙伴由于不能带电脑，就另外带了一个键盘来，专门为了结对的时候方便，这里曝光一下他，就是下图中黑色键盘的主人 ;)&lt;br /&gt;
 由于时间的原因，只进行了两个session，略为遗憾。&lt;/p&gt;
 &lt;p&gt;顺便说一下，结对编程是为了互相交流和讨论，同时提高自己的编码技能。不是为了完成任务，所以如果下次参加活动，记得多和结对的小伙伴交流啊。&lt;/p&gt;
+&lt;p&gt;为什么要结对
+kata
+参看之前的连接&lt;/p&gt;
 &lt;p&gt;结对编程的正确姿势，你会了吗？ &lt;a href="http://blog.jobbole.com/97183/"&gt;http://blog.jobbole.com/97183/&lt;/a&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;好结对成长快，互相监督与学习，感情信任日日增。&lt;br /&gt;
