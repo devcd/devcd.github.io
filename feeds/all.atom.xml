@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.io/" rel="alternate"></link><link href="http://devcd.io/feeds/all.atom.xml" rel="self"></link><id>http://devcd.io/</id><updated>2016-03-23T16:20:00+08:00</updated><entry><title>2016年3月27日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.io/meetup20160327.html" rel="alternate"></link><updated>2016-03-23T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-03-23:meetup20160327.html</id><summary type="html">&lt;p&gt;时间：3月27日 星期日 上午 10:00 - 下午 6:00 (下午2:00 正式开始)   &lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.io/" rel="alternate"></link><link href="http://devcd.io/feeds/all.atom.xml" rel="self"></link><id>http://devcd.io/</id><updated>2016-04-28T14:20:00+08:00</updated><entry><title>2016年5月1日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.io/meetup20160501.html" rel="alternate"></link><updated>2016-04-28T14:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-04-28:meetup20160501.html</id><summary type="html">&lt;p&gt;时间：5月1日 星期日 下午 2:00 - 下午 6:00    &lt;br /&gt;
+地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座19楼 1911（B座也即是东区2栋）&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;    &lt;/p&gt;
+&lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）    &lt;br /&gt;
+要求：无论小白还是大神，都欢迎。可以预先对 NLP 也就是神经语言程序学(Neuro-Linguistic Programming) 进行一些基本了解，然后主题分享者是老外，要求有适当的英文听力。英文不好的就当是一次愉快的面基可好？  &lt;/p&gt;
+&lt;p&gt;活动还是惯例2点开始集合，不过 Fred 安排的 NLP 讨论是在 4点开始。Chengdu AI, ML and Data Science 活动原活动信息详见： &lt;a href="http://www.meetup.com/Chengdu-AI-Machine-Learning-Data-Science-meetup/events/230609583/"&gt;AI Meetup 链接&lt;/a&gt; (请直接报名, 方便统计) &lt;br /&gt;
+大概内容及安排：    &lt;br /&gt;
+1. 下午2点正式开始，先是老规矩每个人自我介绍，互相勾搭&lt;br /&gt;
+2. 本次活动内容说明，及讨论话题、分享主题等选定&lt;br /&gt;
+3. Python 和编程开发相关的讨论分享&lt;br /&gt;
+4. 4点由 Fred 主持的 NLP 分享讨论&lt;br /&gt;
+5. 有待补充的其他讨论或其他主题分享&lt;/p&gt;
+&lt;p&gt;While the internet is highly image based, most of our communication is still text based. Learning to write algorithms that can respond to text based input in a natural way will be an important skill going forward in our fast changing world. &lt;/p&gt;
+&lt;p&gt;In this meetup we discuss &lt;br /&gt;
+1. Installing NLTK library and getting started with NLP. &lt;br /&gt;
+2. Microsoft AI bot incident &lt;br /&gt;
+3. Are bots the new apps? Facebook thinks so.   &lt;br /&gt;
+4. Possible NLP projects &lt;br /&gt;
+5. NLP related job openings &lt;br /&gt;
+6. If time permits, we take a look at an interesting NLP related kaggle exercise&lt;/p&gt;
+&lt;p&gt;大概在 6:00-7:00 有需要的就一起晚饭（AA），然后看各人情况，可以继续 hacking 或聊天到9点或更晚。&lt;/p&gt;
+&lt;p&gt;聚会地点卫星地图&lt;br /&gt;
+&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=聚会合照&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年3月27日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.io/meetup20160327.html" rel="alternate"></link><updated>2016-03-23T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-03-23:meetup20160327.html</id><summary type="html">&lt;p&gt;时间：3月27日 星期日 上午 10:00 - 下午 6:00 (下午2:00 正式开始)   &lt;br /&gt;
 地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座 1911（B 座也即是东区2栋）&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）    &lt;br /&gt;
 要求：无论小白还是大神，都欢迎，可以说没有要求。不过这次聚会有个主题，以键会友嘛，谁家里珍藏的好键盘拿来让大家摸摸可好？  &lt;/p&gt;
