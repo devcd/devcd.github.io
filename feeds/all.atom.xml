@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.io/" rel="alternate"></link><link href="http://devcd.io/feeds/all.atom.xml" rel="self"></link><id>http://devcd.io/</id><updated>2016-06-29T18:20:00+08:00</updated><entry><title>2016年7月3日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.io/meetup20160703.html" rel="alternate"></link><updated>2016-06-29T18:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-06-29:meetup20160703.html</id><summary type="html">&lt;p&gt;时间：7月3日 星期日 下午 2:00 - 下午 6:00  &lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.github.io/" rel="alternate"></link><link href="http://devcd.github.io/feeds/all.atom.xml" rel="self"></link><id>http://devcd.github.io/</id><updated>2016-06-29T18:20:00+08:00</updated><entry><title>2016年7月3日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.github.io/meetup20160703.html" rel="alternate"></link><updated>2016-06-29T18:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-06-29:meetup20160703.html</id><summary type="html">&lt;p&gt;时间：7月3日 星期日 下午 2:00 - 下午 6:00  &lt;br /&gt;
 地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座19楼 1911（B座也即是东区2栋）&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）  &lt;br /&gt;
 要求：无论小白还是大神，都欢迎。  &lt;/p&gt;
@@ -12,7 +12,7 @@
      - 代码规范讨论  &lt;/p&gt;
 &lt;p&gt;（有待补充的其他讨论或其他主题分享）&lt;/p&gt;
 &lt;p&gt;聚会地点卫星地图&lt;br /&gt;
-&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=拾级Cafe地图&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年5月1日 星期天 Python 成都用户组聚会公告 v2</title><link href="http://devcd.io/meetup20160501.html" rel="alternate"></link><updated>2016-04-28T14:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-04-28:meetup20160501.html</id><summary type="html">&lt;p&gt;时间：5月1日 星期日 下午 2:00 - 下午 6:00&lt;br /&gt;
+&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=拾级Cafe地图&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年5月1日 星期天 Python 成都用户组聚会公告 v2</title><link href="http://devcd.github.io/meetup20160501.html" rel="alternate"></link><updated>2016-04-28T14:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-04-28:meetup20160501.html</id><summary type="html">&lt;p&gt;时间：5月1日 星期日 下午 2:00 - 下午 6:00&lt;br /&gt;
 地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座19楼 1911（B座也即是东区2栋）&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）&lt;br /&gt;
 要求：无论小白还是大神，都欢迎。可以预先对 NLP 也就是自然语言处理(&lt;a href="https://en.wikipedia.org/wiki/Natural_language_processing"&gt;Natural Language Processing&lt;/a&gt;) 进行一些基本了解，然后主题分享者是老外，要求有适当的英文听力。英文不好的就当是一次愉快的面基可好？  &lt;/p&gt;
@@ -34,7 +34,7 @@
 &lt;p&gt;If you've never done anything in NLP, don't worry, we'll be using the NLTK library. It's all basic python string manipulation and Sci-kit learn. Discussions will be casual and everyone is welcome to contribute.&lt;/p&gt;
 &lt;p&gt;大概在 6:00-7:00 有需要的就一起晚饭（AA），然后看各人情况，可以继续 hacking 或聊天到9点或更晚。&lt;/p&gt;
 &lt;p&gt;聚会地点卫星地图&lt;br /&gt;
-&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=拾级Cafe地图&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年3月27日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.io/meetup20160327.html" rel="alternate"></link><updated>2016-03-23T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-03-23:meetup20160327.html</id><summary type="html">&lt;p&gt;时间：3月27日 星期日 上午 10:00 - 下午 6:00 (下午2:00 正式开始)   &lt;br /&gt;
+&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=拾级Cafe地图&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年3月27日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.github.io/meetup20160327.html" rel="alternate"></link><updated>2016-03-23T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-03-23:meetup20160327.html</id><summary type="html">&lt;p&gt;时间：3月27日 星期日 上午 10:00 - 下午 6:00 (下午2:00 正式开始)   &lt;br /&gt;
 地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座 1911（B 座也即是东区2栋）&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）    &lt;br /&gt;
 要求：无论小白还是大神，都欢迎，可以说没有要求。不过这次聚会有个主题，以键会友嘛，谁家里珍藏的好键盘拿来让大家摸摸可好？  &lt;/p&gt;
@@ -47,7 +47,7 @@
 &lt;p&gt;大概在 6:00-7:00 有需要的就一起晚饭（AA），然后看各人情况，可以继续 hacking 或聊天到9点或更晚。&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.meetup.com/chengdupython/events/229860961/"&gt;Meetup 链接&lt;/a&gt; (可报名, 方便统计)&lt;/p&gt;
 &lt;p&gt;聚会地点卫星地图&lt;br /&gt;
-&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=聚会合照&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年1月17日 星期天 Python 成都用户组 &amp; CDLUG 聚会公告 v1</title><link href="http://devcd.io/meetup20160117.html" rel="alternate"></link><updated>2016-01-14T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-01-14:meetup20160117.html</id><summary type="html">&lt;p&gt;时间：1月17日 星期日 下午 1:00&lt;br /&gt;
+&lt;div class=text-center&gt;&lt;img src=/img/10f_map.png width=800 alt=聚会合照&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>2016年1月17日 星期天 Python 成都用户组 &amp; CDLUG 聚会公告 v1</title><link href="http://devcd.github.io/meetup20160117.html" rel="alternate"></link><updated>2016-01-14T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-01-14:meetup20160117.html</id><summary type="html">&lt;p&gt;时间：1月17日 星期日 下午 1:00&lt;br /&gt;
 地址：地铁1号线倪家桥附近，成都锦绣路1号保利中心B座（以前似乎叫保利中心东区2栋） 1911 “云朵咖啡”&lt;/p&gt;
 &lt;p&gt;费用：无。如果吃晚饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）&lt;br /&gt;
 要求：最好带上电脑，这样可以在动手做网站环节用上。没有电脑也欢迎参加，反正活动的主要目的是大家互相交流和结识“同志”，另外还有吹水。&lt;/p&gt;
@@ -59,7 +59,7 @@
 4. 视情况进行其他讨论或其他主题分享  &lt;br /&gt;
 5. 讨论 CDLUG 网站建设方案，选定技术框架（如Github+jekyll等，要不要用 Python 呢？）  &lt;br /&gt;
 6. 围绕建设 CDLUG 网站，分配任务，动手编码，hacking，互相交流  &lt;/p&gt;
-&lt;p&gt;大概在 6:00-7:00 晚饭（AA），然后视情况，可以继续 coding 或聊天到9点或更晚。安排大概如此，现场更多是大家互相交流讨论，畅谈人生吧！ XD&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>12月20日结对编程聚会报告（简单版）</title><link href="http://devcd.io/report20151220.html" rel="alternate"></link><updated>2016-01-14T11:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2016-01-14:report20151220.html</id><summary type="html">&lt;p&gt;记得那天很冷，所以特别表扬当天前来参与活动的小伙伴，一起渡过了码得热火朝天的下午。而且大家都对活动很重视，比如有位小伙伴由于不能带电脑，就另外带了一个键盘来，专门为了结对的时候方便，这里曝光一下他，就是下图中黑色键盘的主人 ;)&lt;br /&gt;
+&lt;p&gt;大概在 6:00-7:00 晚饭（AA），然后视情况，可以继续 coding 或聊天到9点或更晚。安排大概如此，现场更多是大家互相交流讨论，畅谈人生吧！ XD&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>12月20日结对编程聚会报告（简单版）</title><link href="http://devcd.github.io/report20151220.html" rel="alternate"></link><updated>2016-01-14T11:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-01-14:report20151220.html</id><summary type="html">&lt;p&gt;记得那天很冷，所以特别表扬当天前来参与活动的小伙伴，一起渡过了码得热火朝天的下午。而且大家都对活动很重视，比如有位小伙伴由于不能带电脑，就另外带了一个键盘来，专门为了结对的时候方便，这里曝光一下他，就是下图中黑色键盘的主人 ;)&lt;br /&gt;
 由于时间的原因，只进行了两个session，略为遗憾。&lt;/p&gt;
 &lt;p&gt;顺便说一下，结对编程是为了互相交流和讨论，同时提高自己的编码技能。不是为了完成任务，所以如果下次参加活动，记得多和结对的小伙伴交流啊。&lt;/p&gt;
 &lt;p&gt;为什么要结对
@@ -73,7 +73,7 @@ kata
 老人们不着急，系统把控在心中，沟通分享影响大。  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;结对现场&lt;br /&gt;
-&lt;div class=text-center&gt;&lt;img src=/img/dec_pair.jpg width=800 alt=聚会合照&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>12月20日 Python 成都用户组聚会公告 v1</title><link href="http://devcd.io/meetup20151220.html" rel="alternate"></link><updated>2015-12-17T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-12-17:meetup20151220.html</id><summary type="html">&lt;p&gt;时间：12月20日 星期日 下午 2:00  &lt;br /&gt;
+&lt;div class=text-center&gt;&lt;img src=/img/dec_pair.jpg width=800 alt=聚会合照&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>12月20日 Python 成都用户组聚会公告 v1</title><link href="http://devcd.github.io/meetup20151220.html" rel="alternate"></link><updated>2015-12-17T16:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-12-17:meetup20151220.html</id><summary type="html">&lt;p&gt;时间：12月20日 星期日 下午 2:00  &lt;br /&gt;
 地址：成都六度建筑设计有限公司 办公室 （四川省-成都市-益州大道北段777号中航国际交流中心B-1805 ）&lt;/p&gt;
 &lt;p&gt;费用：无。如果吃晚饭就AA。（提供有桶装水，也可以自备杯子或自带饮料）&lt;br /&gt;
 要求：需要带电脑，能带电脑的报名时留个言，方便统计，有一半人带就可以。（目前微信群已经有6-7人报名是带电脑的。）  &lt;/p&gt;
@@ -87,7 +87,7 @@ kata
 - 4:40-5:30 第三个 session&lt;br /&gt;
 - 休息5分钟&lt;br /&gt;
 - 5:35-6:00 总结和讨论  &lt;/p&gt;
-&lt;p&gt;关于结对编程和测试驱动开发，请查看&lt;a href="http://devcd.io/report20151122.html"&gt;上一月的聚会报告&lt;/a&gt;，里面有相关资料和介绍&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>11月22日 Google DevFest 聚会报告及主题分享回顾</title><link href="http://devcd.io/report20151122.html" rel="alternate"></link><updated>2015-12-15T11:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-12-15:report20151122.html</id><summary type="html">&lt;p&gt;活动开始之前，经过签到和加入 GDG 的邮件列表后，拿到T恤和小贴纸等，GDG 准备了各种美味的小吃，基本都是我比较喜欢的，感觉他们确实很用心，抽奖环节也送出了无数礼品，中奖率超高。8号平台的地方空间也很大，投影还带了2个电视，这样大家都能清晰看到演讲内容。&lt;/p&gt;
+&lt;p&gt;关于结对编程和测试驱动开发，请查看&lt;a href="http://devcd.io/report20151122.html"&gt;上一月的聚会报告&lt;/a&gt;，里面有相关资料和介绍&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>11月22日 Google DevFest 聚会报告及主题分享回顾</title><link href="http://devcd.github.io/report20151122.html" rel="alternate"></link><updated>2015-12-15T11:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-12-15:report20151122.html</id><summary type="html">&lt;p&gt;活动开始之前，经过签到和加入 GDG 的邮件列表后，拿到T恤和小贴纸等，GDG 准备了各种美味的小吃，基本都是我比较喜欢的，感觉他们确实很用心，抽奖环节也送出了无数礼品，中奖率超高。8号平台的地方空间也很大，投影还带了2个电视，这样大家都能清晰看到演讲内容。&lt;/p&gt;
 &lt;p&gt;这次群主分享的主题和原定略有出入，在进行了自我介绍和安利咱们 Python@成都之后，超哥现场表演了用 C＋＋ 扩展 Python，最后演示的 &lt;a href="https://github.com/yueyoum/ablenet"&gt;ablenet 代码&lt;/a&gt;他也放到 Github 上了。&lt;/p&gt;
 &lt;p&gt;我分享的主题是用Python做敏捷开发，主要是看了&lt;a href="http://book.douban.com/subject/2347790/"&gt;《敏捷软件开发－原则模式和实践(C#版)》&lt;/a&gt;这本书的一些收获，包括在上个月参加了&lt;a href="http://coderetreat-china.github.io/"&gt;GDCR编程静修国际日&lt;/a&gt;之后，关于结对编程和敏捷开发的一些体会。在演示用Python来做保龄球游戏 Kata&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; 的时候，由于准备的不够充分和时间关系，自我感觉表现得不好，希望没有影响大家对敏捷开发和Python的兴趣 ：）&lt;br /&gt;
 演讲用的 &lt;a href="./files/Agile_Demo_by_Python.pdf"&gt;PDF下载&lt;/a&gt;           &lt;br /&gt;
@@ -116,7 +116,7 @@ An Extreme Programming Episode &lt;a href="http://www.objectmentor.com/resources
 &lt;p&gt;Kata是一个日语，意思大体上是日本武术的套路，没有找到比较好的中文翻译来解释Coding Kata这个词。 Coding Kata是一种练习编程能力的一种方法，它要求程序员在拿到一个简单的练习以后进行重复的编码。 比如说，第一次快速的按照需求写出来了能工作的程序，然后抛弃可以工作的第一个版本，重头开始第二轮的编码，然后进行第三次。 如果Coding Kata只是这样子重复打代码的话除了练习打字以外那么没有任何意义了，这个方法的根本目的就是为了练习者不断的体挑战自己，跳出自己的舒适区，从而提高自己。&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>11月22日 联合 GDG 2015 DevFest 活动 &amp; Python 成都用户组聚会公告</title><link href="http://devcd.io/meetup20151122.html" rel="alternate"></link><updated>2015-11-12T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-11-12:meetup20151122.html</id><summary type="html">&lt;p&gt;GDG（Google Developer Group）是 Google 旨在推动开发者交流和分享的社区组织，此次 DevFest 是一年一度的开发者节日，各地 GDG 社区都组织了相应的活动。&lt;/p&gt;
+&lt;/div&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>11月22日 联合 GDG 2015 DevFest 活动 &amp; Python 成都用户组聚会公告</title><link href="http://devcd.github.io/meetup20151122.html" rel="alternate"></link><updated>2015-11-12T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-11-12:meetup20151122.html</id><summary type="html">&lt;p&gt;GDG（Google Developer Group）是 Google 旨在推动开发者交流和分享的社区组织，此次 DevFest 是一年一度的开发者节日，各地 GDG 社区都组织了相应的活动。&lt;/p&gt;
 &lt;p&gt;一直想和 GDG 联合搞个活动，所以就将11月的聚会活动安排到此次 DevFest 了，群主超哥同学和我打算分享两个 Python 相关的主题，希望能和小伙伴们有更多的交流。主题分享完了我们还是如往常一样，可以互相勾兑，聚餐腐败等，欢迎大家来面基。&lt;/p&gt;
 &lt;p&gt;其实，我一直觉得自己是个 Google 开发者 —— 同时也是 StackOverflow 开发者。我想，这是最重要的2个开发工具了 XD&lt;/p&gt;
 &lt;p&gt;【活动时间】2015年11月22日 13:30 - 17:00&lt;br /&gt;
@@ -138,7 +138,7 @@ An Extreme Programming Episode &lt;a href="http://www.objectmentor.com/resources
 1. 超哥会在 libev/gevent/uwsgi 这三个中选一个来介绍吧，期待他的使用分享。&lt;br /&gt;
 2. 我是想分享最近从书上学到的一些关于敏捷开发的东西，结合 Python 来做个演示，比较简单，适合新手和对 Python 了解不多的同学。老手如果没接触过敏捷开发，或者对这个有兴趣都可以来一起交流交流哟。&lt;br /&gt;
 3. 这里的主题顺序和报名链接里的不同，现场应该是按这个来的，先做 Python 方面的分享。&lt;br /&gt;
-4. 还有，群里的 Kabie 和黄小毛同学打算分享关于 Elixir 和 Python 入门相关的内容，到时看情况可以调节好时间进行。  &lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月和10月聚会报告</title><link href="http://devcd.io/report20151026.html" rel="alternate"></link><updated>2015-10-26T21:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-10-26:report20151026.html</id><summary type="html">&lt;p&gt;首先，还是感谢前来的各位，正是有了你们，聚会才有意义。同时请大家对活动各方面多提意见，把下一次活动搞得更好。以下为流水帐，难免有错漏，请多包涵。&lt;/p&gt;
+4. 还有，群里的 Kabie 和黄小毛同学打算分享关于 Elixir 和 Python 入门相关的内容，到时看情况可以调节好时间进行。  &lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月和10月聚会报告</title><link href="http://devcd.github.io/report20151026.html" rel="alternate"></link><updated>2015-10-26T21:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-10-26:report20151026.html</id><summary type="html">&lt;p&gt;首先，还是感谢前来的各位，正是有了你们，聚会才有意义。同时请大家对活动各方面多提意见，把下一次活动搞得更好。以下为流水帐，难免有错漏，请多包涵。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10月聚会总结&lt;/strong&gt;&lt;br /&gt;
 不少小伙伴都提前到场，基本准时，赞一个。但是由于我和 dudu 没有沟通好，部分小伙伴不清楚此次主题 coding 活动的内容，有两位同学没带电脑所以就先行离开了。在此表示歉意。&lt;/p&gt;
 &lt;p&gt;不过更抱歉的是，当 dudu 准备和大家一起开始 coding 的时候，一检查，发现大部分同学都没有做好准备功课，对在 Github 上进行开源贡献不是很了解。于是逐个和我们交流，怎么去进行这个活动。这个也是我事先没有通知好大家，做好预热的原因，真是失误啊。&lt;/p&gt;
@@ -157,7 +157,7 @@ Kabie：5 年开发经验，有使用 Scala 经验，在一个公司做回合制
 宾：前端开发，曾经到过非洲搞开发&lt;br /&gt;
 Quiz：用过 Python 做自动化测试，做过 Android 和 iOS 等开发&lt;/p&gt;
 &lt;p&gt;晚饭之后，剩下的4个小伙伴利用 Xbox 活动了筋骨。&lt;/p&gt;
-&lt;p&gt;现场相片见 &lt;a href="http://qun.qzone.qq.com/group#!/312412351/photo" title="聚会照片"&gt;QQ 群相册&lt;/a&gt;  &lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>10月24日 Python 成都用户组聚会公告 v2</title><link href="http://devcd.io/meetup20151024.html" rel="alternate"></link><updated>2015-10-09T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-10-09:meetup20151024.html</id><summary type="html">&lt;p&gt;时间：10月24日 星期六 下午 2:30&lt;br /&gt;
+&lt;p&gt;现场相片见 &lt;a href="http://qun.qzone.qq.com/group#!/312412351/photo" title="聚会照片"&gt;QQ 群相册&lt;/a&gt;  &lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>10月24日 Python 成都用户组聚会公告 v2</title><link href="http://devcd.github.io/meetup20151024.html" rel="alternate"></link><updated>2015-10-09T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-10-09:meetup20151024.html</id><summary type="html">&lt;p&gt;时间：10月24日 星期六 下午 2:30&lt;br /&gt;
 地址：四川省-成都市-地铁1号线倪家桥附近 &lt;strong&gt;梧桐餐&lt;/strong&gt; 私人菜馆，位于武侯区领事馆路8号706(保利中心中信银行对面，面朝友谊宾馆右侧小巷进入，右转A栋上7楼。)&lt;br /&gt;
 费用：人均 15 元左右的茶水，如果要吃晚饭为人均40-50元（含茶水费）。  &lt;br /&gt;
 附上：&lt;br /&gt;
@@ -181,7 +181,7 @@ dudu 发起的 10 月份 Python 用户组聚会，这次 dudu 提议我们参加
 &lt;p&gt;Let's get together and hack some code!&lt;br /&gt;
 Digital Ocean is running a cool event to celebrate open-source and encourage people to contribute to projects. &lt;a href="https://hacktoberfest.digitalocean.com/"&gt;https://hacktoberfest.digitalocean.com/&lt;/a&gt; &lt;br /&gt;
 Of course you are also welcome to work on your project.&lt;/p&gt;
-&lt;p&gt;It is free to join. In the evening we will have dinner in the venue.&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月26日 Python 成都用户组聚会公告</title><link href="http://devcd.io/meetup20150926.html" rel="alternate"></link><updated>2015-09-20T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-09-20:meetup20150926.html</id><summary type="html">&lt;p&gt;时间：9月26日 下午 2 点&lt;br /&gt;
+&lt;p&gt;It is free to join. In the evening we will have dinner in the venue.&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月26日 Python 成都用户组聚会公告</title><link href="http://devcd.github.io/meetup20150926.html" rel="alternate"></link><updated>2015-09-20T20:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-09-20:meetup20150926.html</id><summary type="html">&lt;p&gt;时间：9月26日 下午 2 点&lt;br /&gt;
 地址：四川省-成都市-地铁1号线倪家桥附近 梧桐餐 私人菜馆，位于 武侯区 武侯区 领事馆路8号706(保利中心对面)&lt;br /&gt;
 附上：&lt;br /&gt;
 &lt;a href="http://www.dianping.com/shop/26911985"&gt;店铺点评网链接&lt;/a&gt;&lt;br /&gt;
@@ -193,11 +193,11 @@ QQ 群&lt;a href="http://qgc.qq.com/307321584/event/1"&gt;活动地址链接&lt;
 1. devcd.io 的建站相关&lt;br /&gt;
 2. 游戏交流（炉石，LOL，GTA V ...）&lt;br /&gt;
 3. 我们爱 Google，是吧？&lt;br /&gt;
-4. 最近的 XcodeGhost 事件&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月19日 CDLUG 2015 软件自由日聚会</title><link href="http://devcd.io/meetup20150919.html" rel="alternate"></link><updated>2015-09-18T11:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-09-18:meetup20150919.html</id><summary type="html">&lt;p&gt;时间：2015-09-19（周六） 下午 14:00&lt;br /&gt;
+4. 最近的 XcodeGhost 事件&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>9月19日 CDLUG 2015 软件自由日聚会</title><link href="http://devcd.github.io/meetup20150919.html" rel="alternate"></link><updated>2015-09-18T11:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-09-18:meetup20150919.html</id><summary type="html">&lt;p&gt;时间：2015-09-19（周六） 下午 14:00&lt;br /&gt;
 地点：COSTA COFFEE(武侯区人民南路四段三号来福士广场2层，地铁1号线 省体育馆站C口)&lt;br /&gt;
 主题：自由软件&lt;/p&gt;
 &lt;p&gt;本次活动以自由软件为主题，同时有针对近期自由软件社区，IT界，凸墙等热点事件的吐槽讨论环节。另有GNU/Linux相关贴纸发放，欢迎各位自由软件爱好者参加本次活动。&lt;/p&gt;
-&lt;p&gt;附：&lt;a href="https://groups.google.com/forum/#!topic/cdlug_community/Uov99SqVUsY"&gt;Google groups 链接&lt;/a&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>8月8日聚会报告</title><link href="http://devcd.io/report20150808.html" rel="alternate"></link><updated>2015-08-16T21:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-08-16:report20150808.html</id><summary type="html">&lt;p&gt;原谅我这是一个迟到1周的 report。迟到总比不到好 :)&lt;br /&gt;
+&lt;p&gt;附：&lt;a href="https://groups.google.com/forum/#!topic/cdlug_community/Uov99SqVUsY"&gt;Google groups 链接&lt;/a&gt;&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>8月8日聚会报告</title><link href="http://devcd.github.io/report20150808.html" rel="alternate"></link><updated>2015-08-16T21:18:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-08-16:report20150808.html</id><summary type="html">&lt;p&gt;原谅我这是一个迟到1周的 report。迟到总比不到好 :)&lt;br /&gt;
 这次陆陆续续来了20多个小伙伴，一个大桌子坐不完只好分散来。而由于投影仪的接口问题，haobug 和一位兄台（忘记名字了，不好意思）去电脑店专门买了 HDMI的转接口，而且是一人买一条，还好有一个可以用。&lt;/p&gt;
 &lt;p&gt;本次的主题是由dudu带来的对 PyPI 上众多 package 的一个数据分析，他的出发点是想获得一些有用的信息，比如哪些包是活跃开发的，哪些是玩具性的不具备使用价值。如果你想找某一方面的相关包来使用或者来学习，都可以获得一些参考。&lt;br /&gt;
 具体过程如下：&lt;br /&gt;
@@ -210,15 +210,15 @@ QQ 群&lt;a href="http://qgc.qq.com/307321584/event/1"&gt;活动地址链接&lt;
 &lt;p&gt;更多见 &lt;a href="http://qun.qzone.qq.com/group#!/312412351/photo" title="聚会照片"&gt;QQ 群相册&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;参考信息&lt;/strong&gt;&lt;br /&gt;
 &lt;a href="https://jupyter.org/"&gt;https://jupyter.org/&lt;/a&gt; （Evolved from the IPython Project）&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://pandas.pydata.org/"&gt;http://pandas.pydata.org/&lt;/a&gt; （Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.）&lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>8月8日 Python 成都用户组聚会公告</title><link href="http://devcd.io/meetup20150808.html" rel="alternate"></link><updated>2015-08-01T11:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-08-01:meetup20150808.html</id><summary type="html">&lt;p&gt;由巴西资深 Python 开发者dudu发起的 Meetup 聚会，他已经在 Meetup.com 上发起过多次成都的 Python 用户聚会，这次他还带来关于使用 Pandas 来分析 PyPI 上 Python packages 的数据的主题。请大家尽情参与面基。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pandas.pydata.org/"&gt;http://pandas.pydata.org/&lt;/a&gt; （Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.）&lt;/p&gt;</summary><category term="report"></category><category term="meetup"></category></entry><entry><title>8月8日 Python 成都用户组聚会公告</title><link href="http://devcd.github.io/meetup20150808.html" rel="alternate"></link><updated>2015-08-01T11:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-08-01:meetup20150808.html</id><summary type="html">&lt;p&gt;由巴西资深 Python 开发者dudu发起的 Meetup 聚会，他已经在 Meetup.com 上发起过多次成都的 Python 用户聚会，这次他还带来关于使用 Pandas 来分析 PyPI 上 Python packages 的数据的主题。请大家尽情参与面基。&lt;/p&gt;
 &lt;p&gt;meetup 链接：&lt;a href="http://www.meetup.com/chengdupython/events/224280611/"&gt;http://www.meetup.com/chengdupython/events/224280611/&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; The PyPI (python package index) data has more than 60 thousand packages and everyday dozens of new releases...Pandas (&lt;a href="http://pandas.pydata.org/"&gt;http://pandas.pydata.org/&lt;/a&gt;) is a library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.We will use Pandas to showcase some interesting facts and trends of python packages on PyPI.  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;更新：地址换为桐梓林附近的 &lt;a href="http://www.dianping.com/shop/23102577"&gt;8 Colors Bird Design Coffee&lt;/a&gt; ，位于 武侯区 航空路6号附1号(丰德广场1-2楼)(新希望大厦旁)&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>devcd.io 站点开通</title><link href="http://devcd.io/start.html" rel="alternate"></link><updated>2015-07-15T17:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.io,2015-07-15:start.html</id><summary type="html">&lt;p&gt;为了方便在成都的开发者们（主要以 Python 为主，其他不限）的交流和面基，发布信息，总结聚会，技术分享等，设立该站点。&lt;/p&gt;
+&lt;p&gt;更新：地址换为桐梓林附近的 &lt;a href="http://www.dianping.com/shop/23102577"&gt;8 Colors Bird Design Coffee&lt;/a&gt; ，位于 武侯区 航空路6号附1号(丰德广场1-2楼)(新希望大厦旁)&lt;/p&gt;</summary><category term="meetup"></category></entry><entry><title>devcd.io 站点开通</title><link href="http://devcd.github.io/start.html" rel="alternate"></link><updated>2015-07-15T17:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2015-07-15:start.html</id><summary type="html">&lt;p&gt;为了方便在成都的开发者们（主要以 Python 为主，其他不限）的交流和面基，发布信息，总结聚会，技术分享等，设立该站点。&lt;/p&gt;
 &lt;p&gt;使用了 Pelican 来生成静态文件，部署到 Github Pages 上，然后将域名指向了 dev.github.io。内容通过 Markdown 编写即可。大力欢迎投稿和贡献内容，投稿请发送 Markdwon 文件给 Too，QQ 上或者发到 toolib@qq.com 邮箱都可以。&lt;/p&gt;
 &lt;p&gt;目前主要的线上交流在 QQ 群内，甚至群论坛也可以做一些讨论，这个站点只是起到简单的信息发布和资料分享，没有做论坛的考虑，但是谁有兴趣和时间，做好了用起来也很好。一般简单的讨论，也可以通过发表一个文章后，在评论系统 Disqus 里做一些互动。&lt;/p&gt;
-&lt;p&gt;Happy coding and 面基！&lt;/p&gt;</summary><category term="log"></category><category term="news"></category></entry><entry><title>Python@成都的第一次聚会</title><link href="http://devcd.io/pycd-1st-meetup.html" rel="alternate"></link><updated>2015-07-12T21:20:00+08:00</updated><author><name>Wang</name></author><id>tag:devcd.io,2015-07-12:pycd-1st-meetup.html</id><summary type="html">&lt;p&gt;2015年7月12号进行了第一次聚会。  &lt;br /&gt;
+&lt;p&gt;Happy coding and 面基！&lt;/p&gt;</summary><category term="log"></category><category term="news"></category></entry><entry><title>Python@成都的第一次聚会</title><link href="http://devcd.github.io/pycd-1st-meetup.html" rel="alternate"></link><updated>2015-07-12T21:20:00+08:00</updated><author><name>Wang</name></author><id>tag:devcd.github.io,2015-07-12:pycd-1st-meetup.html</id><summary type="html">&lt;p&gt;2015年7月12号进行了第一次聚会。  &lt;br /&gt;
 这次聚会其实比较仓促，我（群主）一直忙于工作，  &lt;br /&gt;
 也是在周六早上才确定下来第二天的聚会。  &lt;br /&gt;
 因为准备不充分，再加上也是第一次聚会，就以认识新朋友作为主要目的。  &lt;br /&gt;
@@ -236,7 +236,7 @@ QQ 群&lt;a href="http://qgc.qq.com/307321584/event/1"&gt;活动地址链接&lt;
 &lt;p&gt;最后放一张图片。
 &lt;div class=text-center&gt;&lt;img src=/img/53871-3f586ba7b7344732.png width=800 alt=聚会抓拍&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;同时也希望在成都的更多的小伙伴加入我们的群: 312412351  &lt;br /&gt;
-面基才是重要的事情！&lt;/p&gt;</summary><category term="meetup"></category><category term="report"></category></entry><entry><title>建立一个网站方便发布信息</title><link href="http://devcd.io/plan-wesite.html" rel="alternate"></link><updated>2015-07-08T10:20:00+08:00</updated><author><name>Wang</name></author><id>tag:devcd.io,2015-07-08:plan-wesite.html</id><summary type="html">&lt;p&gt;QQ群检索信息，基本无能为力。&lt;br /&gt;
+面基才是重要的事情！&lt;/p&gt;</summary><category term="meetup"></category><category term="report"></category></entry><entry><title>建立一个网站方便发布信息</title><link href="http://devcd.github.io/plan-wesite.html" rel="alternate"></link><updated>2015-07-08T10:20:00+08:00</updated><author><name>Wang</name></author><id>tag:devcd.github.io,2015-07-08:plan-wesite.html</id><summary type="html">&lt;p&gt;QQ群检索信息，基本无能为力。&lt;br /&gt;
 为了方便发布信息，总结聚会，发布分享，&lt;br /&gt;
 我决定建立一个网站，作用也主要是上面说的：&lt;br /&gt;
 1. 对外宣传的一个门户&lt;br /&gt;
