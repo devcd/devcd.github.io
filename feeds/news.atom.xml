@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.github.io/" rel="alternate"></link><link href="http://devcd.github.io/feeds/news.atom.xml" rel="self"></link><id>http://devcd.github.io/</id><updated>2016-07-27T18:20:00+08:00</updated><entry><title>2016年7月31日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.github.io/meetup20160731.html" rel="alternate"></link><updated>2016-07-27T18:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-07-27:meetup20160731.html</id><summary type="html">&lt;p&gt;时间：7月31日 星期日 晚上 7:00 - 晚上 9:00&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DevCD 成都开发者</title><link href="http://devcd.github.io/" rel="alternate"></link><link href="http://devcd.github.io/feeds/news.atom.xml" rel="self"></link><id>http://devcd.github.io/</id><updated>2018-10-24T12:14:00+08:00</updated><entry><title>HXCD 成都开发者活动日历</title><link href="http://devcd.github.io/hxcd-events.html" rel="alternate"></link><updated>2018-10-24T12:14:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2018-10-24:hxcd-events.html</id><summary type="html">&lt;p&gt;由于一直没有组织什么活动，本站也没有怎么更新了。但是成都本地还是有很多有意思的活动值得关注，所以还是花了不少时间来尝试维护一个成都本地开发者的活动日历。&lt;/p&gt;
+&lt;p&gt;有兴趣了解是怎么弄的可以参考帖子：&lt;a href="https://hxia.men/t/topic/160"&gt;想建立一个长期维护的成都开发者活动的共享日历，有个问题 - 提问&amp;amp;求助 - 黑侠门&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;活动日历&lt;/h2&gt;
+&lt;p&gt;日历订阅地址 &lt;a href="https://www.google.com/calendar/ical/ra63v1eqoj62iu7o5mq7ul3bbs%40group.calendar.google.com/public/basic.ics"&gt;iCal Link&lt;/a&gt;（需要翻墙，有兴趣维护的可以给 toolib@gmail 发信）。包括平时聚会的活动日程，收集到的成都其他一些技术活动的日程。
+&lt;h3 class="text-info text-center"&gt;&lt;i class="fa fa-calendar"&gt;&lt;/i&gt; &lt;a href="https://calendar.google.com/calendar/embed?src=ra63v1eqoj62iu7o5mq7ul3bbs%40group.calendar.google.com&amp;ctz=Asia%2FShanghai&amp;mode=agenda"&gt;成都开发者活动日历&lt;/a&gt;&lt;/h3&gt;
+&lt;!-- You can modify loading the default CSS below and use your own CSS if you want --&gt;
+&lt;link rel="stylesheet" type="text/css" href="https://zetabee.com/icaljs/res/embed.css" /&gt;&lt;/p&gt;
+&lt;!-- Move this div where you want to insert the calendar --&gt;
+
+&lt;div id="icjs" style="width:300px; margin:0 auto;"&gt;&lt;/div&gt;
+
+&lt;script&gt;(function() {
+
+  // Customize these as you wish
+  var pastdays   = 0;       // # of past days to show (0 to 30)
+  var futuredays = 60;      // # of future days to show (0 to 365)
+  var cachemins  = 10;      // # of minutes to wait before refreshing calendar data (2 to 1440)
+  var container  = "icjs";  // ID of div to embed calendar into
+
+  // Do not change anything below this
+  var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = "https://zetabee.com/icaljs/embed?calid=UnVjelVEU3d6ZWpXb0FVWmtpZ2FBQT09&amp;offset=0&amp;cachemins=" + cachemins + "&amp;futuredays=" + futuredays + "&amp;pastdays=" + pastdays + "&amp;container=" + container;
+  (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(s);
+})();&lt;/script&gt;</summary><category term="info"></category><category term="news"></category></entry><entry><title>2016年7月31日 星期天 Python 成都用户组聚会公告 v0</title><link href="http://devcd.github.io/meetup20160731.html" rel="alternate"></link><updated>2016-07-27T18:20:00+08:00</updated><author><name>Too</name></author><id>tag:devcd.github.io,2016-07-27:meetup20160731.html</id><summary type="html">&lt;p&gt;时间：7月31日 星期日 晚上 7:00 - 晚上 9:00&lt;br /&gt;
 地址：&lt;a href="http://www.dianping.com/shop/57939072"&gt;拾级 Cafe&lt;/a&gt;，成都锦绣路1号保利中心B座19楼 1911（B座也即是东区2栋），地铁1号线倪家桥附近。  &lt;/p&gt;
 &lt;p&gt;费用：无。如果吃饭就AA。（提供有开水，也可以自备杯子或自带饮料，在店消费咖啡或茶为20元左右）&lt;br /&gt;
 要求：无论小白还是大神，都欢迎。  &lt;/p&gt;
